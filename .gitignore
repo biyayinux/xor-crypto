@@ -1,0 +1,21 @@
+# Fichiers compilés
+*.o
+*.out
+*.exe
+*.obj
+
+# Exécutable principal
+programme
+
+# Dossiers temporaires
+/tmp/
+build/
+dist/
+
+# Sauvegardes et logs
+*.log
+*.bak
+
+# Fichiers système
+.DS_Store
+Thumbs.db
